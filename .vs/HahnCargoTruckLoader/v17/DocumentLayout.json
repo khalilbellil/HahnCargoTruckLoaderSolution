@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\csharp\\HahnCargoTruckLoaderSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000A82BF-7646-43E1-994B-FD9B038203B5}|HahnCargoTruckLoader\\HahnCargoTruckLoader.csproj|c:\\workspace\\csharp\\hahncargotruckloadersolution\\hahncargotruckloader\\logic\\loadingplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A82BF-7646-43E1-994B-FD9B038203B5}|HahnCargoTruckLoader\\HahnCargoTruckLoader.csproj|solutionrelative:hahncargotruckloader\\logic\\loadingplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A82BF-7646-43E1-994B-FD9B038203B5}|HahnCargoTruckLoader\\HahnCargoTruckLoader.csproj|c:\\workspace\\csharp\\hahncargotruckloadersolution\\hahncargotruckloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A82BF-7646-43E1-994B-FD9B038203B5}|HahnCargoTruckLoader\\HahnCargoTruckLoader.csproj|solutionrelative:hahncargotruckloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\csharp\\HahnCargoTruckLoaderSolution\\HahnCargoTruckLoader\\Program.cs",
+              "RelativeDocumentMoniker": "HahnCargoTruckLoader\\Program.cs",
+              "ToolTip": "C:\\Workspace\\csharp\\HahnCargoTruckLoaderSolution\\HahnCargoTruckLoader\\Program.cs",
+              "RelativeToolTip": "HahnCargoTruckLoader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:44:45.871Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadingPlan.cs",
+              "DocumentMoniker": "C:\\Workspace\\csharp\\HahnCargoTruckLoaderSolution\\HahnCargoTruckLoader\\Logic\\LoadingPlan.cs",
+              "RelativeDocumentMoniker": "HahnCargoTruckLoader\\Logic\\LoadingPlan.cs",
+              "ToolTip": "C:\\Workspace\\csharp\\HahnCargoTruckLoaderSolution\\HahnCargoTruckLoader\\Logic\\LoadingPlan.cs",
+              "RelativeToolTip": "HahnCargoTruckLoader\\Logic\\LoadingPlan.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwKgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:46:28.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
